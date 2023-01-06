@@ -58,15 +58,19 @@ section{
 }
 
 .img-style{
-    height: 400px;
+    height: 500px;
     width: 400px;
-    padding-left: 180px;
-    padding-top: 100px;
+    padding-left: 250px;
+    padding-top: 60px;
+}
+
+.descrptn-headline{
+    font-size: 25px;
 }
 
 .descrptn-section{
-    padding-right: 80px;
-    padding-top: 40px;
+    padding-right: 280px;
+    padding-top: 230px;
 }
 
     
@@ -74,6 +78,10 @@ section{
 .descrptn-body {
     font-size: 10px;
     line-height: 2;
+}
+
+.descrptn-body p i{
+    color: rgb(137, 218, 15);
 }
 
 .my-plan-headline{
@@ -98,12 +106,44 @@ section{
     line-height: 2;
 }
 
+.plans-img{
+    height: 60px;
+    width: 60px;
+}
+
 /*  call section*/
 
 .call-section{
     padding-top: 120px;
+    padding-left: 200px;
+    
 }
 
+.call-description{
+    background-image: linear-gradient(to right , rgb(85, 85, 85) , rgb(182, 173, 173));
+    width: 800px;
+    height: 220px;
+    border-radius: 4px;
+    
+    
+}
+
+.call-headline{
+    padding: 50px 0px 0px 50px;
+    font-size: 25px;
+    color: white;
+}
+
+
+
+.call-btn{
+    padding: 10px 18px;
+    margin-left: 50px;
+    border-radius: 4px;
+    border: none;
+    font-size: 10px;
+    
+}
 
 /* footer */
 
@@ -111,7 +151,7 @@ footer{
     background-color: black;
     margin-top: 90px;
     color: white;
-    padding: 120px 140px;
+    padding: 80px 140px;
 }
 
 .future-descrptn{
@@ -125,9 +165,10 @@ footer{
 
 .footer-icon i{
     padding: 8px;
-    background-color: rgb(3, 14, 111);
+    background-color: rgb(255, 255, 255);
     border-radius: 100%;
     font-size: 15px;
+    color: rgb(92, 92, 234);
 }
 
 .subscrb-input{
