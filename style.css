@@ -19,7 +19,7 @@ header{
 }
 
 .heading1{
-    font-weight: 800;
+    font-weight: 700;
     font-size: 40px;
     color: rgb(0, 0, 0);
 
@@ -59,16 +59,16 @@ section{
 .img-style{
     height: 500px;
     width: 400px;
-    padding-left: 370px;
+    padding-left: 350px;
     padding-top: 60px;
 }
 
 .descrptn-headline{
-    font-size: 25px;
+    font-size: 30px;
 }
 
 .descrptn-section{
-    padding-right: 380px;
+    padding-right: 370px;
     padding-top: 230px;
 }
 
@@ -84,7 +84,7 @@ section{
 }
 
 .my-plan-headline{
-   
+   font-size: 30px;
     padding-top: 60px;
    padding-left: 700px;
 }
@@ -92,7 +92,7 @@ section{
 .my-plan{
    
     padding-top: 40px;
-    padding-left: 90px;
+    padding-left: 100px;
 }
 
 .my-plan-section{
@@ -118,7 +118,7 @@ section{
 .call-section{
     
     padding-top: 120px;
-    padding-left: 400px;
+    padding-left: 350px;
     
 }
 
