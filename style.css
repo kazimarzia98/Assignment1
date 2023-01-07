@@ -13,9 +13,9 @@ header{
 }
 
 .headingArea{
-    text-align: left;
+    text-align: right;
     padding-top: 8%;
-    padding-left: 170px;
+    padding-right: 170px;
 }
 
 .heading1{
