@@ -1,7 +1,6 @@
 *{
     margin: 0;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-
+    font-family: 'Work Sans', sans-serif;
 }
 
 header{
@@ -20,7 +19,7 @@ header{
 }
 
 .heading1{
-    font-weight: 700;
+    font-weight: 800;
     font-size: 40px;
     color: rgb(0, 0, 0);
 
@@ -40,7 +39,6 @@ header{
     background-color: rgb(214, 83, 65);
     border: none;
     border-radius: 4px;
-    font-family: 'Times New Roman', Times, serif;
 }
 
 .headerBtn:hover{
@@ -85,12 +83,15 @@ section{
 }
 
 .my-plan-headline{
+    width: 100%;
     padding-top: 60px;
-   padding-left: 550px;
+   padding-left: 700px;
 }
 
 .my-plan{
+    width: 100%;
     padding-top: 40px;
+    padding-left: 70px;
 }
 
 .my-plan-section{
@@ -114,8 +115,9 @@ section{
 /*  call section*/
 
 .call-section{
+    width: 100%;
     padding-top: 120px;
-    padding-left: 200px;
+    padding-left: 400px;
     
 }
 
