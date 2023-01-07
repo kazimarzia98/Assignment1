@@ -57,25 +57,26 @@ section{
 }
 
 .img-style{
-    height: 500px;
-    width: 400px;
-    padding-left: 350px;
+    height: 650px;
+    width: 530px;
+    padding-left: 220px;
     padding-top: 60px;
 }
 
 .descrptn-headline{
-    font-size: 30px;
+    font-size: 35px;
+    font-weight: 800;
 }
 
 .descrptn-section{
-    padding-right: 370px;
-    padding-top: 230px;
+    padding-right: 300px;
+    padding-top: 260px;
 }
 
     
 
 .descrptn-body {
-    font-size: 10px;
+    font-size: 13px;
     line-height: 2;
 }
 
@@ -84,33 +85,33 @@ section{
 }
 
 .my-plan-headline{
-   font-size: 30px;
+   font-size: 35px;
     padding-top: 60px;
-   padding-left: 700px;
+   padding-left: 650px;
 }
 
 .my-plan{
    
     padding-top: 40px;
-    padding-left: 100px;
+    padding-left: 50px;
 }
 
 .my-plan-section{
     display: flex;
-    padding: 10px 0px 0px 200px;
+    padding: 10px 0px 0px 110px;
     text-align: center;
-    
+    font-size: 25px;
     
 }
 
 .plans{
-    padding-left: 60px;
+    padding-left: 70px;
     line-height: 2;
 }
 
 .plans-img{
-    height: 60px;
-    width: 60px;
+    height: 100px;
+    width: 100px;
 }
 
 /*  call section*/
@@ -118,14 +119,14 @@ section{
 .call-section{
     
     padding-top: 120px;
-    padding-left: 350px;
+    padding-left: 250px;
     
 }
 
 .call-description{
    background:linear-gradient(to right,rgba(255, 0, 0, 0.375),rgba(255, 255, 255, 0.234)) ,url(assets/images/banner/watch.png);
-    width: 800px;
-    height: 220px;
+    width: 950px;
+    height: 250px;
     border-radius: 8px;
     
     
@@ -133,7 +134,7 @@ section{
 
 .call-headline{
     padding: 50px 0px 0px 50px;
-    font-size: 25px;
+    font-size: 35px;
     color: white;
     
    
@@ -144,11 +145,12 @@ section{
 
 
 .call-btn{
-    padding: 10px 18px;
+    padding: 15px 22px;
     margin-left: 50px;
     border-radius: 4px;
     border: none;
-    font-size: 10px;
+    font-size: 15px;
+    font-weight: 500;
     color: rgb(214, 83, 65);
 }
 
@@ -169,7 +171,7 @@ footer{
 }
 
 .future-descrptn{
-    font-size: 10px;
+    font-size: 15px;
     color: rgb(189, 189, 189);
 }
 
